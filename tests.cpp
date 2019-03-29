@@ -2,8 +2,8 @@
 #include "catch/catch.hpp"
 #include "game.cpp"
 
-TEST_CASE("Verificação da função soma_string") {
-    SECTION("Casos de quebras básicas"){
+TEST_CASE("Verificação da função game") {
+    SECTION("Caso básico"){
         REQUIRE(game() == 0);
     }
 }

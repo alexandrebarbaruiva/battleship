@@ -2,7 +2,7 @@
 
 
 /**
- * 
+ *
  * @return
  */
 int main() {

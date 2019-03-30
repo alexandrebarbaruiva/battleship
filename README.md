@@ -28,7 +28,7 @@ Exibir ao final do jogo um mapa final do posicionamento final dos navios dos jog
 - Mapa 10x10
 - 5 tipos de navios, 1 de cada tipo
 - Inimigo mais esperto
-- Salvamento de estado do jogo
+- (OPCIONAL) Salvamento de estado do jogo
 
 ## Tipos de navios
 
